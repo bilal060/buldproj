@@ -1,0 +1,46 @@
+{
+  "../plasmic-init.ts -> ./code-components/Calculator": {
+    "id": 7800,
+    "files": [
+      "static/chunks/800.eae5a7b48c33d079.js"
+    ]
+  },
+  "../plasmic-init.ts -> ./code-components/CalculatorNew": {
+    "id": 4090,
+    "files": [
+      "static/chunks/90.338373bb72c0a8e3.js"
+    ]
+  },
+  "../plasmic-init.ts -> ./code-components/DataCenterPricing": {
+    "id": 3133,
+    "files": [
+      "static/chunks/793.11e41905b63c2d61.js",
+      "static/chunks/664.a7791d571492e6a5.js",
+      "static/css/243db6c3d6dc82d8.css",
+      "static/chunks/48.f33440fec2f7e5ed.js"
+    ]
+  },
+  "../plasmic-init.ts -> ./code-components/Pricing": {
+    "id": 6242,
+    "files": [
+      "static/chunks/793.11e41905b63c2d61.js",
+      "static/chunks/664.a7791d571492e6a5.js",
+      "static/css/814360fe7434f5dc.css",
+      "static/chunks/578.5fc746a50cfeed51.js"
+    ]
+  },
+  "../plasmic-init.ts -> ./code-components/Youtube": {
+    "id": 997,
+    "files": [
+      "static/chunks/997.d36b13eda7437e90.js"
+    ]
+  },
+  "../plasmic-init.ts -> ./code-components/carousel": {
+    "id": 5306,
+    "files": [
+      "static/chunks/278.fca8903fe6b16952.js",
+      "static/css/0bf0d6edd4f3e8cd.css",
+      "static/chunks/860.53653c929d05e63a.js"
+    ]
+  }
+}

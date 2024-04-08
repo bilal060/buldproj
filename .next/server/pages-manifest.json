@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/hello": "pages/api/hello.js",
+  "/freshChat": "pages/freshChat.html",
+  "/plasmic-host": "pages/plasmic-host.html",
+  "/vwo": "pages/vwo.html",
+  "/[[...catchall]]": "pages/[[...catchall]].js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
